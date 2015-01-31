@@ -1,0 +1,11 @@
+Unix Commands
+-------------
+ls
+mkdir
+touch
+cd
+pwd
+
+Fish
+- will underline file with text match if file exists in pwd
+- will autocomplete
